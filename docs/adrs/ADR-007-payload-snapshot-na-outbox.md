@@ -1,7 +1,7 @@
 # ADR-007: Payload snapshot na inserção da outbox
 
 Status: Aceito
-Data: 2026-08-11
+Data: 2026-10-19
 
 ## Contexto
 

@@ -6,7 +6,7 @@
 | --- | --- |
 | Autor | Codex |
 | Status | Em revisão |
-| Data | 2026-08-11 |
+| Data | 2026-10-19 |
 | Revisores | Larissa, Marcos, Bruno, Diego, Sofia |
 
 ## TL;DR

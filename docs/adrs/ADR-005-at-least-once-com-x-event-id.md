@@ -1,7 +1,7 @@
 # ADR-005: Garantia at-least-once com `X-Event-Id`
 
 Status: Aceito
-Data: 2026-08-11
+Data: 2026-10-19
 
 ## Contexto
 

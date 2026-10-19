@@ -1,7 +1,7 @@
 # ADR-002: Worker separado em polling
 
 Status: Aceito
-Data: 2026-08-11
+Data: 2026-10-19
 
 ## Contexto
 

@@ -1,7 +1,7 @@
 # ADR-006: Reuso dos padrões existentes do projeto
 
 Status: Aceito
-Data: 2026-08-11
+Data: 2026-10-19
 
 ## Contexto
 

@@ -1,7 +1,7 @@
 # ADR-004: HMAC-SHA256 com secret por endpoint
 
 Status: Aceito
-Data: 2026-08-11
+Data: 2026-10-19
 
 ## Contexto
 

@@ -1,7 +1,7 @@
 # ADR-001: Outbox no MySQL para registrar eventos de webhook
 
 Status: Aceito
-Data: 2026-08-11
+Data: 2026-10-19
 
 ## Contexto
 
